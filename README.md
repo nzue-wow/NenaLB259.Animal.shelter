@@ -2,7 +2,7 @@
 
 ## Datensatzbeschreibung
 
-Dieser Datensatz enthält Informationen über Tiere, die im Austin Animal Center aufgenommen und später wieder abgegeben wurden. Er umfasst Felder wie Tier-ID, Tierart (z. B. Hund oder Katze), Rasse, Farbe, Geschlecht und Alter zum Zeitpunkt der Aufnahme oder Abgabe. Außerdem sind Datum und Uhrzeit der Aufnahme sowie der Ausgang des Aufenthalts enthalten, beispielsweise Adoption, Transfer oder Rückgabe an den Besitzer. Mit diesem Datensatz kann man Vorhersagen ob ein Tier oder wie lang es braucht bis es wieder aus dem Shelter sind(je nach konditionen der Tiere.
+Dieser Datensatz enthält Informationen über Tiere, die im Austin Animal Center aufgenommen und später wieder abgegeben wurden. Er umfasst Felder wie Tier-ID, Tierart (z. B. Hund oder Katze), Rasse, Farbe, Geschlecht und Alter zum Zeitpunkt der Aufnahme oder Abgabe. Außerdem sind Datum und Uhrzeit der Aufnahme sowie der Ausgang des Aufenthalts enthalten, beispielsweise Adoption, Transfer oder Rückgabe an den Besitzer. Mit diesem Datensatz kann man Vorhersagen wie lang es braucht bis ein Tier wieder aus dem Shelter sind(je nach konditionen der Tiere.
 
 ## Datenschutz und Privatsphäre
 
